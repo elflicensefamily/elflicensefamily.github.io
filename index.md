@@ -7,7 +7,7 @@ Each license also requires that credit is given to the creator.
 Additional stipulations are included for each license.
 
 # The Licenses
-## ELF-BY-SA 1.0
+## ELF-BY-SA
 **Attribution, ShareAlike**  
 The [ELF-BY-SA 1.0](https://elflicensefamily.org/docs/ELF-BY-SA_1.0.pdf) license allows reproduction and distribution of the licensed work, in addition to derivative works.
 This license is intended to be used by those who want to create something that can be shared by everyone.
@@ -19,7 +19,7 @@ The [ELF-BY-SA-NR 1.0](https://elflicensefamily.org/docs/ELF-BY-SA-NR_1.0.pdf) l
 This license is intended to be used by those who prefer to retain the rights to distribute their work.
 The motivation for this option is to facilitate works that require a large amount of money to create but not to reproduce, such as movies or video games.
 While the rights to reproduction are restricted, others can still create and distribute derivative works.
-
-# The Details
+  
 More details, including the text of the licenses, can be found at the [licenses page.](https://elflicensefamily.org/licenses)
-
+  
+We are seeking feedback.  Please write us at <feedback@elflicensefamily.org>
