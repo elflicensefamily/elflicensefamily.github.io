@@ -17,9 +17,9 @@ Since all work released under an ELF license can be remixed, creators can build 
 Popular collections of stories will comprise fictional worlds that can be used for new stories, games, artwork, and more.
   
 Second, it retains the potential of profit for works that are expensive to create but easy to reproduce, such as video games and movies.
-ELF licensed works retain the potential to be used for major productions without requiring dual licensing or contributor license agreements.
 A community generated fictional world licensed under ELF could be used as the basis for a high production value work.
 The creator could limit the rights of others to reproduce that work, but others would stil be allowed to create new stories based on the characters and setting.
+Additionally, no dual licensing scheme or contributor license agreements would be required.
 
 
 # The Licenses
