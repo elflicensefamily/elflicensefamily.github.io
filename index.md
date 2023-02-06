@@ -6,6 +6,20 @@ Under every license in the ELF License Family, the creator of a work retains cop
 Each license also requires that credit is given to the creator.
 Additional stipulations are included for each license.
 
+# Why ELF?
+Creative Commons licenses have become popular for releasing shared creations.
+All Creative Commons licenses allow anyone to reproduce and distribute the work licensed under them.
+The goal of ELF is to allow people to riff and remix each other's creations without necessarily allowing them to reproduce and distribute the original work.
+The vision behind this goal is twofold.
+  
+First, it includes people creating fiction for fun and profit.
+Since all work released under an ELF license can be remixed, creators can build upon each other's stories.
+Popular collections of stories will comprise fictional worlds that can be used for new stories, games, artwork, and more.
+  
+Second, it retains the potential of profit for works that are expensive to create but easy to reproduce, such as video games and movies.
+Essentially, the goal of ELF is to reverse the flow of fan fiction, because often times the best ideas come from the fans.
+ELF licensed works retain the potential to be used for major productions without requiring dual licensing or contributor license agreements.
+
 # The Licenses
 ## ELF-BY-SA
 **Attribution, ShareAlike**  
@@ -16,8 +30,7 @@ It is very similar to the Creative Commons CC-BY-SA license.
 ## ELF-BY-SA-NR
 **Attribution, ShareAlike, NoReproduction**  
 The [ELF-BY-SA-NR](https://elflicensefamily.org/docs/ELF-BY-SA-NR_1.0-draft01.pdf) license does not allow reproduction and distribution of the licensed work.
-This license is intended to be used by those who prefer to retain the rights to distribute their work.
-The motivation for this option is to facilitate works that require a large amount of money to create but not to reproduce, such as movies or video games.
+This license is intended to be used by those who prefer to retain the rights to distribute their work, but still allows other to remix it.
 While the rights to reproduction are restricted, others can still create and distribute derivative works.
   
 More details, including the text of the licenses, can be found at the [licenses page.](https://elflicensefamily.org/licenses)
