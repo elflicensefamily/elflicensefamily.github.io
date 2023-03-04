@@ -21,6 +21,8 @@ A community generated fictional world licensed under ELF could be used as the ba
 The creator could limit the rights of others to reproduce that work, but others would stil be allowed to create new stories based on the characters and setting.
 Additionally, no dual licensing scheme or contributor license agreements would be required.
 
+# Disclaimer
+ELF is a work in progress.  The current draft licenses are merely copies of Creative Commons licenses that were edited by a non-lawyer with change-tracking enabled.  Do not release works under ELF at this time.  The draft copies and this web site have been created to encourage a vision and prompt conversation.
 
 # The Licenses
 ## ELF-BY-SA
