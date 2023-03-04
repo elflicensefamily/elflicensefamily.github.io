@@ -27,7 +27,7 @@ ELF is a work in progress.  The current draft licenses are merely copies of Crea
 # The Licenses
 ## ELF-BY-SA
 **Attribution, ShareAlike**  
-The [ELF-BY-SA](https://elflicensefamily.org/docs/ELF-BY-SA_1.0-draft01.pdf) license allows reproduction and distribution of the licensed work, in addition to derivative works.
+The [ELF-BY-SA](https://elflicensefamily.org/docs/ELF-BY-SA_1.0_draft01.pdf) license allows reproduction and distribution of the licensed work, in addition to derivative works.
 This license is intended to be used by those who want to create something that can be shared by everyone.
 It is very similar to the Creative Commons CC-BY-SA license.
 
