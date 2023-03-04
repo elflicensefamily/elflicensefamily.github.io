@@ -33,7 +33,7 @@ It is very similar to the Creative Commons CC-BY-SA license.
 
 ## ELF-BY-SA-NR
 **Attribution, ShareAlike, NoReproduction**  
-The [ELF-BY-SA-NR](https://elflicensefamily.org/docs/ELF-BY-SA-NR_1.0-draft01.pdf) license does not allow reproduction and distribution of the licensed work.
+The [ELF-BY-SA-NR](https://elflicensefamily.org/docs/ELF-BY-SA-NR_1.0_draft01.pdf) license does not allow reproduction and distribution of the licensed work.
 This license is intended to be used by those who prefer to retain the rights to distribute their work, but still allows other to remix it.
 While the rights to reproduction are restricted, others can still create and distribute derivative works.
   
